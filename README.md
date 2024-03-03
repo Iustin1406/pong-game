@@ -1,4 +1,4 @@
-#PONG GAME
+# PONG GAME
 
 This is a simple implementation of the classic Pong game using Python's turtle graphics module and Object-Oriented Programming (OOP) principles.
 
